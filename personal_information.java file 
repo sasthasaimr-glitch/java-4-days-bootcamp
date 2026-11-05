@@ -1,0 +1,18 @@
+
+public class PersonalInformation {
+    public static void main(String[] args) {
+
+        System.out.println("===== PERSONAL INFORMATION =====");
+
+        System.out.println("Name       : Sastha Sai M R");
+        System.out.println("Age        : 19");
+        System.out.println("Course     : B.Tech");
+        System.out.println("Branch     : AI and Data Science");
+        System.out.println("College    : Perumon Engineering College");
+        System.out.println("State      : Kerala");
+        System.out.println("Country    : India");
+        
+        System.out.println("===============================");
+    }
+}
+
