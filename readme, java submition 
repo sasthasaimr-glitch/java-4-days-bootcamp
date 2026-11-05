@@ -1,0 +1,59 @@
+Java 4 Days Bootcamp – Project Submission
+
+📌 Project Problem Statement
+
+Develop Java programs to demonstrate fundamental Java programming concepts, including user input, conditional statements, loops, classes, objects, constructors, methods, inheritance, abstraction, and runtime polymorphism.
+
+The project aims to strengthen programming skills through practical problem-solving exercises and object-oriented programming.
+
+📌 Project Description
+
+This project is a collection of Java programs developed as part of the Java 4 Days Bootcamp.
+
+It demonstrates basic Java programming techniques and Object-Oriented Programming (OOP) concepts through practical examples.
+
+The programs cover personal information display, age eligibility checking, star pattern printing, bank account management, animal inheritance, and shape area calculation using abstraction and polymorphism.
+
+✨ Key Features
+
+1. Personal Information: Displays personal details using Java output statements.
+2. Age Eligibility Checker: Accepts the user's age and checks event registration eligibility.
+3. Star Pattern Printing: Uses nested loops to print a triangular star pattern.
+4. Bank Account Management: Implements deposit, withdrawal, and balance display operations.
+5. Animal Inheritance: Demonstrates inheritance using Animal, Dog, and Cat classes.
+6. Shape Area Calculator: Calculates the areas of Circle, Rectangle, and Triangle using abstraction and polymorphism.
+
+🛠️ Technologies Used
+
+- Programming Language: Java
+- IDE: Eclipse
+- Version Control: Git
+- Repository Hosting: GitHub
+- Concepts: Object-Oriented Programming (OOP)
+
+👩‍💻 STUDENT INFORMATION
+
+- Name: Sastha Sai M R
+- Class / Year: B.Tech – 1st Year
+- Department: Artificial Intelligence and Data Science
+- College: Perumon Engineering College
+- GitHub Profile: sasthasaimr-glitch
+- **LinkedIn Profile:**https://www.linkedin.com/in/sastha-sai-mr-undefined-50a827432?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+
+🎯 Learning Outcomes
+
+- Understanding Java syntax and program structure.
+- Developing logical thinking and problem-solving skills.
+- Learning classes, objects, and constructors.
+- Understanding inheritance and code reusability.
+- Implementing abstraction and runtime polymorphism.
+- Gaining practical experience with GitHub.
+
+📂 Project Status
+
+Successfully completed the Java programming exercises as part of the 4 Days Bootcamp.
+
+---
+
+Submitted by: Sastha Sai M R
+Java 4 Days Bootcamp
